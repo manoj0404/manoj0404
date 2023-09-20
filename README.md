@@ -5,7 +5,6 @@
     <li>💞️ I’m looking to collaborate on ...</li>
     <li>📫 How to reach me ...</li>
 </ul>
--
 
 <!---
 manoj0404/manoj0404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
