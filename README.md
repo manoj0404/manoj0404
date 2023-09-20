@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manoj Chaudhari
+<h1>👋 Hi, I’m Manoj Chaudhari</h1>
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning RCPIT
 - 💞️ I’m looking to collaborate on ...
